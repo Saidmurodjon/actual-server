@@ -1,6 +1,6 @@
 name = "actual-server"
 compatibility_date = "2026-06-14"
-main = "src/app.js"
+main = "app.js"
 
 [[kv_namespaces]]
 binding = "ACTUAL_SERVER_KV"
