@@ -1,8 +1,6 @@
 name = "actual-server"
-compatibility_date = "2026-06-14"
 main = "app.js"
-format = "modules"
+compatibility_date = "2026-06-14"
 compatibility_flags = [ "nodejs_compat" ]
-[[kv_namespaces]]
 binding = "ACTUAL_SERVER_KV"
 id = "39aa5b05b94d40a78133114277501064"
