@@ -1,3 +1,7 @@
+name = "actual-server"
+compatibility_date = "2026-06-14"
+main = "src/index.js" # Agar faylingiz .ts bo'lsa, src/index.ts deb yozing
+
 [[kv_namespaces]]
 binding = "ACTUAL_SERVER_KV"
 id = "39aa5b05b94d40a78133114277501064"
