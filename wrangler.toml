@@ -1,6 +1,8 @@
 name = "actual-server"
 main = "app.js"
-compatibility_date = "2026-06-14"
-compatibility_flags = [ "nodejs_compat" ]
-binding = "ACTUAL_SERVER_KV"
+compatibility_date = "2026-06-15"
+compatibility_flags = ["nodejs_compat"]
+
+[build]
+command = ""
 id = "39aa5b05b94d40a78133114277501064"
